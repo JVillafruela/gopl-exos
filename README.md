@@ -1,2 +1,2 @@
 # gopl-exos
-Exercices from "The Go Programming Language" book
+Exercises from "The Go Programming Language" book
